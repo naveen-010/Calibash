@@ -28,3 +28,19 @@ Welcome to my CLI-based calendar project! This Python program allows users to na
 ```bash
 python Calendar.py [optional events csv file]
 ```
+
+**Warning:**
+Setup your own openai api key as an environment varibale before running the code otherwise you will get an error.
+
+
+https://github.com/user-attachments/assets/ab3cb136-0119-41a5-a849-d98d5ec69226
+
+
+1. For Windows:
+   ```bash
+   setx OPENAI_API_KEY "your_api_key_here"
+   ```
+2. For Macos/Linux:
+   ```bash
+   export OPENAI_API_KEY="your_api_key_here"
+   ```
