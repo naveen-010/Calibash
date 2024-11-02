@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/ab3cb136-0119-41a5-a849-d98d5ec69226
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/naveen-010/Calibash
    cd your-repo
    ```
 2. **Install dependencies**:
