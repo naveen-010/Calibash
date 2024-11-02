@@ -2,6 +2,9 @@
 
 Welcome to my CLI-based calendar project! This Python program allows users to navigate dates, manage events with ease using natural language, and import/export event data through CSV files—all from the command line.
 
+## Showcase
+https://github.com/user-attachments/assets/ab3cb136-0119-41a5-a849-d98d5ec69226
+
 ## Features
 
 - **Navigate Between Dates**: Effortlessly move between months and years, or jump to specific dates.
@@ -31,9 +34,6 @@ python Calendar.py [optional events csv file]
 
 **Warning:**
 Setup your own openai api key as an environment varibale before running the code otherwise you will get an error.
-
-
-https://github.com/user-attachments/assets/ab3cb136-0119-41a5-a849-d98d5ec69226
 
 
 1. For Windows:
