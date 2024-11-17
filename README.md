@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/ab3cb136-0119-41a5-a849-d98d5ec69226
 
 - **Navigate Between Dates**: Effortlessly move between months and years, or jump to specific dates.
 - **Switch Views**: Toggle between month and year views for different calendar perspectives.
-- **Smart Event Management**: Add, remove, edit, and view events using plain language. No strict syntax required!
+- **Smart Event Management**: Add, remove, edit, and view events using plain language. No strict syntax required as it uses **AI** to understand so you can even type in hinglish if you like !!
 - **CSV Import/Export**: 
   - Export: The program creates an `events.csv` file in the current working directory if one doesn't already exist.
   - Import: Reads a provided `events.csv` file specified through CLI arguments, ensuring seamless data flow.
